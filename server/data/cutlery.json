@@ -5,7 +5,7 @@
       "description": "Stainless steel fork with matte black finish.",
       "price": 8.99,
       "image": "/images/fork001.jpg",
-      "category": "Forks"
+      "category": "fork"
     },
     {
       "id": "knife001",
@@ -13,7 +13,7 @@
       "description": "Sleek design, serrated edge. Ideal for meat.",
       "price": 12.50,
       "image": "/images/knife001.jpg",
-      "category": "Knives"
+      "category": "knife"
     }
   ]
   
