@@ -32,6 +32,9 @@ function Cart() {
             </div>
           ))}
           <h3>Total: €{total.toFixed(2)}</h3>
+          <Link to="/checkout">
+          <button style={{ marginTop: '1rem' }}>Proceed to Checkout</button>
+          </Link>
         </div>
       )}
     </div>
