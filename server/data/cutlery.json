@@ -1,0 +1,19 @@
+[
+    {
+      "id": "fork001",
+      "name": "Elegant Dinner Fork",
+      "description": "Stainless steel fork with matte black finish.",
+      "price": 8.99,
+      "image": "/images/fork001.jpg",
+      "category": "Forks"
+    },
+    {
+      "id": "knife001",
+      "name": "Premium Steak Knife",
+      "description": "Sleek design, serrated edge. Ideal for meat.",
+      "price": 12.50,
+      "image": "/images/knife001.jpg",
+      "category": "Knives"
+    }
+  ]
+  
