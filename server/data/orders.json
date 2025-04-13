@@ -56,5 +56,26 @@
       }
     ],
     "total": 8.99
+  },
+  {
+    "id": 1744553548841,
+    "date": "2025-04-13T14:12:28.841Z",
+    "customer": {
+      "name": "Tae",
+      "email": "vjvjhkb@gmail.com",
+      "address": "bibubobo"
+    },
+    "items": [
+      {
+        "id": "knife001",
+        "name": "Premium Steak Knife",
+        "description": "Sleek design, serrated edge. Ideal for meat.",
+        "price": 12.5,
+        "image": "/images/knife001.jpg",
+        "category": "Knives",
+        "quantity": 2
+      }
+    ],
+    "total": 25
   }
 ]

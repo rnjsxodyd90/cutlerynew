@@ -6,7 +6,7 @@ import Cart from './pages/Cart';
 import Navbar from './components/Navbar';
 import Checkout from './pages/Checkout';
 import ThankYou from './pages/ThankYou';
-
+import AddProduct from './pages/AddProduct';
 
 function App() {
   return (
@@ -18,6 +18,7 @@ function App() {
         <Route path="/cart" element={<Cart />} />
         <Route path="/checkout" element={<Checkout />} />
         <Route path="/thank-you" element={<ThankYou />} />
+        <Route path="/admin/add-product" element={<AddProduct />} />
       </Routes>
     </Router>
   );

@@ -4,6 +4,7 @@ const cors = require('cors');
 const path = require('path');
 const productRoutes = require('./routes/products');
 const orderRoutes = require('./routes/orders');
+const adminRoutes = require('./routes/admin');
 
 // 2. Initialize app
 const app = express();
@@ -17,6 +18,7 @@ app.use(express.json());
 // 4. Routes
 app.use('/api/products', productRoutes);
 app.use('/api/orders', orderRoutes);
+app.use('/api/admin', adminRoutes);
 
 
 // 5. Start the server
